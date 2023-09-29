@@ -7,6 +7,8 @@
 * Anaconda3
 * Git
 # Architecture
+<img width="576" alt="pdf_Archi" src="https://github.com/yogi-25/TalkingDocs/assets/55496505/5fb26550-5565-4ca7-8b1f-7e7e2b73faea">
+
  
   
 # Usage
