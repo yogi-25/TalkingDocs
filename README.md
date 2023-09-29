@@ -15,8 +15,10 @@
 - Set the OpenAI API key as an environment variable OPENAI_API_KEY.
 - create environment from anaconda.
   - Activate environment
-     - conda activate env_name 
-- Run the script: main.py
+     - conda activate env_name
+   - pip install -r requiremnets.txt
+- Run the script: streamlit run main.py
+  
 
 # Key Features
 - Upload PDF and ask any quetion
