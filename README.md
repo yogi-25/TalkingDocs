@@ -39,4 +39,7 @@
 
 ![shreyasskills](https://github.com/yogi-25/TalkingDocs/assets/55496505/37c57338-a1ef-45a0-9770-20204306dd11)
 
+# Deployment 
+https://talkingdocs-givingpdfvoicewithai.streamlit.app/
+
 [Youtube](https://youtu.be/vp0ECyw8V10?si=IucZ12MS7muw5PPz)
