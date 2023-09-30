@@ -31,12 +31,9 @@ GitPython==3.1.37
 greenlet==2.0.2
 htbuilder==0.6.2
 idna==3.4
-Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1654302431367/work
 joblib==1.3.2
 jsonpatch==1.33
 jsonpointer==2.4
-jsonschema @ file:///home/conda/feedstock_root/build_artifacts/jsonschema-meta_1695228989494/work
-jsonschema-specifications @ file:///home/conda/feedstock_root/build_artifacts/jsonschema-specifications_1689701150890/work
 kiwisolver==1.4.5
 langchain==0.0.304
 langsmith==0.0.41
@@ -55,13 +52,10 @@ mypy-extensions==1.0.0
 nest-asyncio==1.5.8
 nltk==3.8.1
 numexpr==2.8.7
-numpy @ file:///D:/bld/numpy_1694920156760/work/dist/numpy-1.26.0-cp311-cp311-win_amd64.whl#sha256=52e1af97f7d84aafe72cc1aaae3e1c9d52dff69c7ffcc96e2f4f7799fdad7a0c
 openai==0.28.1
 openapi-schema-pydantic==1.2.4
-packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1681337016113/work
-pandas @ file:///D:/bld/pandas_1695249556903/work
+
 Pillow==9.5.0
-pkgutil_resolve_name @ file:///home/conda/feedstock_root/build_artifacts/pkgutil-resolve-name_1694617248815/work
 protobuf==3.20.3
 pyarrow==13.0.0
 pydantic==1.10.13
@@ -71,17 +65,12 @@ pymdown-extensions==10.3
 Pympler==1.0.1
 pyparsing==3.1.1
 PyPDF2==3.0.1
-python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
 python-dotenv==1.0.0
-pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1693930252784/work
 PyYAML==6.0.1
-referencing @ file:///home/conda/feedstock_root/build_artifacts/referencing_1691337268233/work
 regex==2023.8.8
 requests==2.31.0
 rich==13.5.3
-rpds-py @ file:///D:/bld/rpds-py_1694631124230/work
 semver==3.0.1
-six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
 smmap==5.0.1
 sniffio==1.3.0
 soupsieve==2.5
@@ -100,12 +89,9 @@ streamlit-vertical-slider==1.0.2
 tenacity==8.2.3
 tiktoken==0.5.1
 toml==0.10.2
-toolz @ file:///home/conda/feedstock_root/build_artifacts/toolz_1657485559105/work
 tornado==6.3.3
 tqdm==4.66.1
 typing-inspect==0.9.0
-typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1695040754690/work
-tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1680081134351/work
 tzlocal==5.0.1
 urllib3==1.26.16
 validators==0.22.0
