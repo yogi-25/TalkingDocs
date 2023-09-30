@@ -42,7 +42,6 @@ lxml==4.9.3
 Markdown==3.4.4
 markdown-it-py==3.0.0
 markdownlit==0.0.7
-MarkupSafe @ file:///D:/bld/markupsafe_1695367436673/work
 marshmallow==3.20.1
 matplotlib==3.8.0
 mdurl==0.1.2
