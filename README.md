@@ -25,6 +25,12 @@
 - Uses OpenAI's language model for generating responses.
 
 # Outputs
+![Screenshot (15)](https://github.com/yogi-25/TalkingDocs/assets/55496505/5af8d4ed-5a1f-4cb6-bebe-0abaab5e9626)
+
+![Screenshot (16)](https://github.com/yogi-25/TalkingDocs/assets/55496505/a57ee656-8128-44df-b8ce-159ec271b093)
+
+![Screenshot 2023-09-28 153909](https://github.com/yogi-25/TalkingDocs/assets/55496505/c71aad45-82e3-4a7e-ba9b-7c6dcb0c0319)
+
 ![homepage](https://github.com/yogi-25/TalkingDocs/assets/55496505/84dc85ed-65a2-4e66-88f7-639717f2cee7)
 
 ![dragdrop](https://github.com/yogi-25/TalkingDocs/assets/55496505/523d3753-0143-4e26-aee1-c998bb86dbd3)
