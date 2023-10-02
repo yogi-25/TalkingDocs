@@ -42,4 +42,4 @@
 # Deployment 
 https://talkingdocs-givingpdfvoicewithai.streamlit.app/
 
-[Youtube](https://youtu.be/vp0ECyw8V10?si=IucZ12MS7muw5PPz)
+[Youtube](https://youtu.be/L3UUCssmNMc?si=ybRpt2XcBh0wrIlN) 
